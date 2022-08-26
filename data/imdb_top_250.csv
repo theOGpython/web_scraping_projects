@@ -1,0 +1,251 @@
+,movie_title,year,place,star_cast,rating,director
+0,The Shawshank Redemption,1994-01-01,1," Tim Robbins,  Morgan Freeman",9.234676668676816,Frank Darabont
+1,The Godfather,1972-01-01,2," Marlon Brando,  Al Pacino",9.156559604388365,Francis Ford Coppola
+2,The Dark Knight,2008-01-01,3," Christian Bale,  Heath Ledger",8.987413435444642,Christopher Nolan
+3,The Godfather Part II,1974-01-01,4," Al Pacino,  Robert De Niro",8.984567011713153,Francis Ford Coppola
+4,12 Angry Men,1957-01-01,5," Henry Fonda,  Lee J. Cobb",8.949254487261411,Sidney Lumet
+5,Schindler's List,1993-01-01,6," Liam Neeson,  Ralph Fiennes",8.936330223063619,Steven Spielberg
+6,The Lord of the Rings: The Return of the King,2003-01-01,7," Elijah Wood,  Viggo Mortensen",8.923449061653471,Peter Jackson
+7,Pulp Fiction,1994-01-01,8," John Travolta,  Uma Thurman",8.849681368311055,Quentin Tarantino
+8,The Lord of the Rings: The Fellowship of the Ring,2001-01-01,9," Elijah Wood,  Ian McKellen",8.804886724395816,Peter Jackson
+9," Il buono, il brutto, il cattivo",1966-01-01,1," Clint Eastwood,  Eli Wallach",8.792684704768735,Sergio Leone
+10,Forrest Gump,1994-01-01,11," Tom Hanks,  Robin Wright",8.767691375957684,Robert Zemeckis
+11,Fight Club,1999-01-01,12," Brad Pitt,  Edward Norton",8.749236740502441,David Fincher
+12,Inception,2010-01-01,13," Leonardo DiCaprio,  Joseph Gordon-Levitt",8.73301454400285,Christopher Nolan
+13,The Lord of the Rings: The Two Towers,2002-01-01,14," Elijah Wood,  Ian McKellen",8.729600094313682,Peter Jackson
+14,The Empire Strikes Back,1980-01-01,15," Mark Hamill,  Harrison Ford",8.701361680497918,Irvin Kershner
+15,The Matrix,1999-01-01,16," Keanu Reeves,  Laurence Fishburne",8.670551548806692,Lana Wachowski
+16,Goodfellas,1990-01-01,17," Robert De Niro,  Ray Liotta",8.652583410857844,Martin Scorsese
+17,One Flew Over the Cuckoo's Nest,1975-01-01,18," Jack Nicholson,  Louise Fletcher",8.640348499704713,Milos Forman
+18,Se7en,1995-01-01,19," Morgan Freeman,  Brad Pitt",8.604380868705547,David Fincher
+19,Shichinin no samurai,1954-01-01,20," Toshirô Mifune,  Takashi Shimura",8.598959171128037,Akira Kurosawa
+20,It's a Wonderful Life,1946-01-01,21," James Stewart,  Donna Reed",8.596897768940568,Frank Capra
+21,The Silence of the Lambs,1991-01-01,22," Jodie Foster,  Anthony Hopkins",8.588326381706832,Jonathan Demme
+22,Cidade de Deus,2002-01-01,23," Alexandre Rodrigues,  Leandro Firmino",8.579005306125259,Fernando Meirelles
+23,Saving Private Ryan,1998-01-01,24," Tom Hanks,  Matt Damon",8.578601635415591,Steven Spielberg
+24,La vita è bella,1997-01-01,25," Roberto Benigni,  Nicoletta Braschi",8.566329171472697,Roberto Benigni
+25,The Green Mile,1999-01-01,26," Tom Hanks,  Michael Clarke Duncan",8.560777069305743,Frank Darabont
+26,Interstellar,2014-01-01,27," Matthew McConaughey,  Anne Hathaway",8.55954475104457,Christopher Nolan
+27,Star Wars,1977-01-01,28," Mark Hamill,  Harrison Ford",8.55298353931449,George Lucas
+28,Terminator 2: Judgment Day,1991-01-01,29," Arnold Schwarzenegger,  Linda Hamilton",8.536503386799351,James Cameron
+29,Back to the Future,1985-01-01,30," Michael J. Fox,  Christopher Lloyd",8.518316398634152,Robert Zemeckis
+30,Sen to Chihiro no kamikakushi,2001-01-01,31," Daveigh Chase,  Suzanne Pleshette",8.515299787553069,Hayao Miyazaki
+31,Psycho,1960-01-01,32," Anthony Perkins,  Janet Leigh",8.508270987405739,Alfred Hitchcock
+32,The Pianist,2002-01-01,33," Adrien Brody,  Thomas Kretschmann",8.505447840615979,Roman Polanski
+33,Léon,1994-01-01,34," Jean Reno,  Gary Oldman",8.498749913265474,Luc Besson
+34,Gisaengchung,2019-01-01,35," Song Kang-ho,  Sun-kyun Lee",8.496172637274896,Bong Joon Ho
+35,The Lion King,1994-01-01,36," Matthew Broderick,  Jeremy Irons",8.488390121642956,Roger Allers
+36,Gladiator,2000-01-01,37," Russell Crowe,  Joaquin Phoenix",8.486360062061904,Ridley Scott
+37,American History X,1998-01-01,38," Edward Norton,  Edward Furlong",8.483884250875729,Tony Kaye
+38,The Departed,2006-01-01,39," Leonardo DiCaprio,  Matt Damon",8.475714608973107,Martin Scorsese
+39,The Usual Suspects,1995-01-01,40," Kevin Spacey,  Gabriel Byrne",8.47473735732364,Bryan Singer
+40,The Prestige,2006-01-01,41," Christian Bale,  Hugh Jackman",8.468535596585735,Christopher Nolan
+41,Casablanca,1942-01-01,42," Humphrey Bogart,  Ingrid Bergman",8.464476595045618,Michael Curtiz
+42,Whiplash,2014-01-01,43," Miles Teller,  J.K. Simmons",8.462322641396534,Damien Chazelle
+43,The Intouchables,2011-01-01,44," François Cluzet,  Omar Sy",8.453461465604205,Olivier Nakache
+44,Seppuku,1962-01-01,45," Tatsuya Nakadai,  Akira Ishihama",8.450555523414412,Masaki Kobayashi
+45,Hotaru no haka,1988-01-01,46," Tsutomu Tatsumi,  Ayano Shiraishi",8.450486095254792,Isao Takahata
+46,Modern Times,1936-01-01,47," Charles Chaplin,  Paulette Goddard",8.449139760949484,Charles Chaplin
+47,Once Upon a Time in the West,1968-01-01,48," Henry Fonda,  Charles Bronson",8.446689919810433,Sergio Leone
+48,Rear Window,1954-01-01,49," James Stewart,  Grace Kelly",8.43719246405381,Alfred Hitchcock
+49,Alien,1979-01-01,50," Sigourney Weaver,  Tom Skerritt",8.435138798085054,Ridley Scott
+50,City Lights,1931-01-01,51," Charles Chaplin,  Virginia Cherrill",8.434323320145417,Charles Chaplin
+51,Nuovo Cinema Paradiso,1988-01-01,52," Philippe Noiret,  Enzo Cannavale",8.431034500156027,Giuseppe Tornatore
+52,Apocalypse Now,1979-01-01,53," Martin Sheen,  Marlon Brando",8.424912088293567,Francis Ford Coppola
+53,Memento,2000-01-01,54," Guy Pearce,  Carrie-Anne Moss",8.42452278059411,Christopher Nolan
+54,Raiders of the Lost Ark,1981-01-01,55," Harrison Ford,  Karen Allen",8.410977240032084,Steven Spielberg
+55,Django Unchained,2012-01-01,56," Jamie Foxx,  Christoph Waltz",8.40409559901202,Quentin Tarantino
+56,Top Gun: Maverick,2022-01-01,57," Tom Cruise,  Jennifer Connelly",8.401476345526977,Joseph Kosinski
+57,WALL·E,2008-01-01,58," Ben Burtt,  Elissa Knight",8.393322591722617,Andrew Stanton
+58,The Lives of Others,2006-01-01,59," Ulrich Mühe,  Martina Gedeck",8.385815284051272,Florian Henckel von Donnersmarck
+59,Sunset Blvd,1950-01-01,60," William Holden,  Gloria Swanson",8.382983961508112,Billy Wilder
+60,Paths of Glory,1957-01-01,61," Kirk Douglas,  Ralph Meeker",8.371879033938148,Stanley Kubrick
+61,The Shining,1980-01-01,62," Jack Nicholson,  Shelley Duvall",8.36711685598822,Stanley Kubrick
+62,The Great Dictator,1940-01-01,63," Charles Chaplin,  Paulette Goddard",8.365952048161306,Charles Chaplin
+63,Witness for the Prosecution,1957-01-01,64," Tyrone Power,  Marlene Dietrich",8.359166453151833,Billy Wilder
+64,Avengers: Infinity War,2018-01-01,65," Robert Downey Jr.,  Chris Hemsworth",8.358299263895798,Anthony Russo
+65,Aliens,1986-01-01,66," Sigourney Weaver,  Michael Biehn",8.344671812964757,James Cameron
+66,American Beauty,1999-01-01,67," Kevin Spacey,  Annette Bening",8.335953713205804,Sam Mendes
+67,Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-01-01,68," Peter Sellers,  George C. Scott",8.332271465322489,Stanley Kubrick
+68,Spider-Man: Into the Spider-Verse,2018-01-01,69," Shameik Moore,  Jake Johnson",8.330702239680875,Bob Persichetti
+69,The Dark Knight Rises,2012-01-01,70," Christian Bale,  Tom Hardy",8.328124277083644,Christopher Nolan
+70,Oldeuboi,2003-01-01,71," Choi Min-sik,  Yoo Ji-tae",8.32008603722536,Park Chan-wook
+71,Joker,2019-01-01,72," Joaquin Phoenix,  Robert De Niro",8.317924640495391,Todd Phillips
+72,Amadeus,1984-01-01,73," F. Murray Abraham,  Tom Hulce",8.316007217236805,Milos Forman
+73,Braveheart,1995-01-01,74," Mel Gibson,  Sophie Marceau",8.315503819728649,Mel Gibson
+74,Toy Story,1995-01-01,75," Tom Hanks,  Tim Allen",8.315031763578787,John Lasseter
+75,Coco,2017-01-01,76," Anthony Gonzalez,  Gael García Bernal",8.312964107478756,Lee Unkrich
+76,Inglourious Basterds,2009-01-01,77," Brad Pitt,  Diane Kruger",8.312723646180846,Quentin Tarantino
+77,Das Boot,1981-01-01,78," Jürgen Prochnow,  Herbert Grönemeyer",8.312552208120211,Wolfgang Petersen
+78,Mononoke-hime,1997-01-01,79," Yôji Matsuda,  Yuriko Ishida",8.303482592919947,Hayao Miyazaki
+79,Avengers: Endgame,2019-01-01,80," Robert Downey Jr.,  Chris Evans",8.301872096178498,Anthony Russo
+80,Once Upon a Time in America,1984-01-01,81," Robert De Niro,  James Woods",8.298330297470674,Sergio Leone
+81,Good Will Hunting,1997-01-01,82," Robin Williams,  Matt Damon",8.287880331489852,Gus Van Sant
+82,Kimi no na wa,2016-01-01,83," Ryûnosuke Kamiki,  Mone Kamishiraishi",8.277571028104393,Makoto Shinkai
+83,Requiem for a Dream,2000-01-01,84," Ellen Burstyn,  Jared Leto",8.275701472957364,Darren Aronofsky
+84,Toy Story 3,2010-01-01,85," Tom Hanks,  Tim Allen",8.275675252800868,Lee Unkrich
+85,Singin' in the Rain,1952-01-01,86," Gene Kelly,  Donald O'Connor",8.273443228999211,Stanley Donen
+86,3 Idiots,2009-01-01,87," Aamir Khan,  Madhavan",8.270576528242687,Rajkumar Hirani
+87,Star Wars: Episode VI - Return of the Jedi,1983-01-01,88," Mark Hamill,  Harrison Ford",8.267109429704876,Richard Marquand
+88,Tengoku to jigoku,1963-01-01,89," Toshirô Mifune,  Yutaka Sada",8.266293748242044,Akira Kurosawa
+89,2001: A Space Odyssey,1968-01-01,90," Keir Dullea,  Gary Lockwood",8.264106331070638,Stanley Kubrick
+90,Eternal Sunshine of the Spotless Mind,2004-01-01,91," Jim Carrey,  Kate Winslet",8.263422628055793,Michel Gondry
+91,Reservoir Dogs,1992-01-01,92," Harvey Keitel,  Tim Roth",8.26318726160971,Quentin Tarantino
+92,Capharnaüm,2018-01-01,93," Zain Al Rafeea,  Yordanos Shiferaw",8.259747092573008,Nadine Labaki
+93,Lawrence of Arabia,1962-01-01,94," Peter O'Toole,  Alec Guinness",8.25630456209276,David Lean
+94,Citizen Kane,1941-01-01,95," Orson Welles,  Joseph Cotten",8.256166241627179,Orson Welles
+95,Jagten,2012-01-01,96," Mads Mikkelsen,  Thomas Bo Larsen",8.255933797547163,Thomas Vinterberg
+96,M - Eine Stadt sucht einen Mörder,1931-01-01,97," Peter Lorre,  Ellen Widmann",8.254336030773567,Fritz Lang
+97,North by Northwest,1959-01-01,98," Cary Grant,  Eva Marie Saint",8.252162497159055,Alfred Hitchcock
+98,Idi i smotri,1985-01-01,99," Aleksey Kravchenko,  Olga Mironova",8.247246826027947,Elem Klimov
+99, Vertigo,1958-01-01,10," James Stewart,  Kim Novak",8.246796993018028,Alfred Hitchcock
+100,Le fabuleux destin d'Amélie Poulain,2001-01-01,101," Audrey Tautou,  Mathieu Kassovitz",8.244287608201747,Jean-Pierre Jeunet
+101,A Clockwork Orange,1971-01-01,102," Malcolm McDowell,  Patrick Magee",8.243142427824914,Stanley Kubrick
+102,Double Indemnity,1944-01-01,103," Fred MacMurray,  Barbara Stanwyck",8.23959598611696,Billy Wilder
+103,Full Metal Jacket,1987-01-01,104," Matthew Modine,  R. Lee Ermey",8.239576263054209,Stanley Kubrick
+104,The Apartment,1960-01-01,105," Jack Lemmon,  Shirley MacLaine",8.23910336495767,Billy Wilder
+105,Scarface,1983-01-01,106," Al Pacino,  Michelle Pfeiffer",8.235606925912244,Brian De Palma
+106,Ikiru,1952-01-01,107," Takashi Shimura,  Nobuo Kaneko",8.234926521153282,Akira Kurosawa
+107,The Sting,1973-01-01,108," Paul Newman,  Robert Redford",8.228739481227013,George Roy Hill
+108,To Kill a Mockingbird,1962-01-01,109," Gregory Peck,  John Megna",8.228369442253971,Robert Mulligan
+109,Taxi Driver,1976-01-01,110," Robert De Niro,  Jodie Foster",8.225693187888831,Martin Scorsese
+110,Heat,1995-01-01,111," Al Pacino,  Robert De Niro",8.224892570760083,Michael Mann
+111,Up,2009-01-01,112," Edward Asner,  Jordan Nagai",8.224558863289735,Pete Docter
+112,LA Confidential,1997-01-01,113," Kevin Spacey,  Russell Crowe",8.223105960805938,Curtis Hanson
+113,Metropolis,1927-01-01,114," Brigitte Helm,  Alfred Abel",8.221802268279259,Fritz Lang
+114,Incendies,2010-01-01,115," Lubna Azabal,  Mélissa Désormeaux-Poulin",8.221388134459009,Denis Villeneuve
+115,Jodaeiye Nader az Simin,2011-01-01,116," Payman Maadi,  Leila Hatami",8.221101134767665,Asghar Farhadi
+116,Die Hard,1988-01-01,117," Bruce Willis,  Alan Rickman",8.220157073526199,John McTiernan
+117,Snatch,2000-01-01,118," Jason Statham,  Brad Pitt",8.219754053807982,Guy Ritchie
+118,Indiana Jones and the Last Crusade,1989-01-01,119," Harrison Ford,  Sean Connery",8.218423518407567,Steven Spielberg
+119,Ladri di biciclette,1948-01-01,120," Lamberto Maggiorani,  Enzo Staiola",8.218072681295382,Vittorio De Sica
+120,Hamilton,2020-01-01,121," Lin-Manuel Miranda,  Phillipa Soo",8.216338777230693,Thomas Kail
+121,1917,2019-01-01,122," Dean-Charles Chapman,  George MacKay",8.211771469904013,Sam Mendes
+122,Taare Zameen Par,2007-01-01,123," Darsheel Safary,  Aamir Khan",8.208159255753891,Aamir Khan
+123,Der Untergang,2004-01-01,124," Bruno Ganz,  Alexandra Maria Lara",8.204845459768475,Oliver Hirschbiegel
+124,Per qualche dollaro in più,1965-01-01,125," Clint Eastwood,  Lee Van Cleef",8.202567345050332,Sergio Leone
+125,Batman Begins,2005-01-01,126," Christian Bale,  Michael Caine",8.20123916735346,Christopher Nolan
+126,Dangal,2016-01-01,127," Aamir Khan,  Sakshi Tanwar",8.198599560629113,Nitesh Tiwari
+127,The Kid,1921-01-01,128," Charles Chaplin,  Edna Purviance",8.194014315685873,Charles Chaplin
+128,Some Like It Hot,1959-01-01,129," Marilyn Monroe,  Tony Curtis",8.192135672421443,Billy Wilder
+129,All About Eve,1950-01-01,130," Bette Davis,  Anne Baxter",8.18101824084314,Joseph L. Mankiewicz
+130,The Father,2020-01-01,131," Anthony Hopkins,  Olivia Colman",8.180789330685291,Florian Zeller
+131,Green Book,2018-01-01,132," Viggo Mortensen,  Mahershala Ali",8.175048724960453,Peter Farrelly
+132,Spider-Man: No Way Home,2021-01-01,133," Tom Holland,  Zendaya",8.173985424576264,Jon Watts
+133,The Wolf of Wall Street,2013-01-01,134," Leonardo DiCaprio,  Jonah Hill",8.173323497688845,Martin Scorsese
+134,Judgment at Nuremberg,1961-01-01,135," Spencer Tracy,  Burt Lancaster",8.170475770722874,Stanley Kramer
+135,Ran,1985-01-01,136," Tatsuya Nakadai,  Akira Terao",8.16520998152474,Akira Kurosawa
+136,Casino,1995-01-01,137," Robert De Niro,  Sharon Stone",8.16415954406818,Martin Scorsese
+137,Unforgiven,1992-01-01,138," Clint Eastwood,  Gene Hackman",8.163746956986387,Clint Eastwood
+138,Pan's Labyrinth,2006-01-01,139," Ivana Baquero,  Ariadna Gil",8.162508319362145,Guillermo del Toro
+139,There Will Be Blood,2007-01-01,140," Daniel Day-Lewis,  Paul Dano",8.156740511741871,Paul Thomas Anderson
+140,The Truman Show,1998-01-01,141," Jim Carrey,  Ed Harris",8.154137116669155,Peter Weir
+141,The Sixth Sense,1999-01-01,142," Bruce Willis,  Haley Joel Osment",8.154082497734802,M. Night Shyamalan
+142,A Beautiful Mind,2001-01-01,143," Russell Crowe,  Ed Harris",8.152603299973249,Ron Howard
+143,Monty Python and the Holy Grail,1975-01-01,144," Graham Chapman,  John Cleese",8.150565489477597,Terry Gilliam
+144,Yôjinbô,1961-01-01,145," Toshirô Mifune,  Eijirô Tôno",8.149785217516119,Akira Kurosawa
+145,The Treasure of the Sierra Madre,1948-01-01,146," Humphrey Bogart,  Walter Huston",8.149057770719567,John Huston
+146,Shutter Island,2010-01-01,147," Leonardo DiCaprio,  Emily Mortimer",8.14562774820759,Martin Scorsese
+147,Jurassic Park,1993-01-01,148," Sam Neill,  Laura Dern",8.14510218993222,Steven Spielberg
+148,The Great Escape,1963-01-01,149," Steve McQueen,  James Garner",8.14261913220415,John Sturges
+149,Rashômon,1950-01-01,150," Toshirô Mifune,  Machiko Kyô",8.142246782418892,Akira Kurosawa
+150,Kill Bill: Vol 1,2003-01-01,151," Uma Thurman,  David Carradine",8.137862983520481,Quentin Tarantino
+151,No Country for Old Men,2007-01-01,152," Tommy Lee Jones,  Javier Bardem",8.13700893221838,Ethan Coen
+152,Finding Nemo,2003-01-01,153," Albert Brooks,  Ellen DeGeneres",8.131517045344157,Andrew Stanton
+153,The Elephant Man,1980-01-01,154," Anthony Hopkins,  John Hurt",8.130330158285984,David Lynch
+154,Chinatown,1974-01-01,155," Jack Nicholson,  Faye Dunaway",8.129477303959654,Roman Polanski
+155,Raging Bull,1980-01-01,156," Robert De Niro,  Cathy Moriarty",8.128952508644119,Martin Scorsese
+156,The Thing,1982-01-01,157," Kurt Russell,  Wilford Brimley",8.127760106146892,John Carpenter
+157,Gone with the Wind,1939-01-01,158," Clark Gable,  Vivien Leigh",8.125934900413831,Victor Fleming
+158,V for Vendetta,2005-01-01,159," Hugo Weaving,  Natalie Portman",8.125038949534234,James McTeigue
+159,Inside Out,2015-01-01,160," Amy Poehler,  Bill Hader",8.123308123757354,Pete Docter
+160,"Lock, Stock and Two Smoking Barrels",1998-01-01,161," Jason Flemyng,  Dexter Fletcher",8.122633481009126,Guy Ritchie
+161,Dial M for Murder,1954-01-01,162," Ray Milland,  Grace Kelly",8.120349588521025,Alfred Hitchcock
+162,El secreto de sus ojos,2009-01-01,163," Ricardo Darín,  Soledad Villamil",8.117772420336228,Juan José Campanella
+163,Hauru no ugoku shiro,2004-01-01,164," Chieko Baishô,  Takuya Kimura",8.11484683845042,Hayao Miyazaki
+164,The Bridge on the River Kwai,1957-01-01,165," William Holden,  Alec Guinness",8.113802036700722,David Lean
+165,"Three Billboards Outside Ebbing, Missouri",2017-01-01,166," Frances McDormand,  Woody Harrelson",8.111206732625567,Martin McDonagh
+166,Trainspotting,1996-01-01,167," Ewan McGregor,  Ewen Bremner",8.1109841651419,Danny Boyle
+167,Warrior,2011-01-01,168," Tom Hardy,  Nick Nolte",8.104450309487575,Gavin O'Connor
+168,Gran Torino,2008-01-01,169," Clint Eastwood,  Bee Vang",8.104293765889338,Clint Eastwood
+169,Fargo,1996-01-01,170," William H. Macy,  Frances McDormand",8.103154436812092,Joel Coen
+170,Prisoners,2013-01-01,171," Hugh Jackman,  Jake Gyllenhaal",8.09817676141915,Denis Villeneuve
+171,Tonari no Totoro,1988-01-01,172," Hitoshi Takagi,  Noriko Hidaka",8.094417686536056,Hayao Miyazaki
+172,Million Dollar Baby,2004-01-01,173," Hilary Swank,  Clint Eastwood",8.089672885891089,Clint Eastwood
+173,Catch Me If You Can,2002-01-01,174," Leonardo DiCaprio,  Tom Hanks",8.087740611237468,Steven Spielberg
+174,The Gold Rush,1925-01-01,175," Charles Chaplin,  Mack Swain",8.087140440457755,Charles Chaplin
+175,Blade Runner,1982-01-01,176," Harrison Ford,  Rutger Hauer",8.085756946717725,Ridley Scott
+176,On the Waterfront,1954-01-01,177," Marlon Brando,  Karl Malden",8.083856988165978,Elia Kazan
+177,Everything Everywhere All at Once,2022-01-01,178," Michelle Yeoh,  Stephanie Hsu",8.083248247649763,Dan Kwan
+178,Bacheha-Ye aseman,1997-01-01,179," Mohammad Amir Naji,  Amir Farrokh Hashemian",8.08275642533642,Majid Majidi
+179,The Third Man,1949-01-01,180," Orson Welles,  Joseph Cotten",8.081310167880273,Carol Reed
+180,Ben-Hur,1959-01-01,181," Charlton Heston,  Jack Hawkins",8.079155006696517,William Wyler
+181,Before Sunrise,1995-01-01,182," Ethan Hawke,  Julie Delpy",8.078916432414141,Richard Linklater
+182,12 Years a Slave,2013-01-01,183," Chiwetel Ejiofor,  Michael Kenneth Williams",8.078322955715846,Steve McQueen
+183,Smultronstället,1957-01-01,184," Victor Sjöström,  Bibi Andersson",8.078221357282933,Ingmar Bergman
+184,The General,1926-01-01,185," Buster Keaton,  Marion Mack",8.077695868147343,Clyde Bruckman
+185,Gone Girl,2014-01-01,186," Ben Affleck,  Rosamund Pike",8.077273835042345,David Fincher
+186,Harry Potter and the Deathly Hallows: Part 2,2011-01-01,187," Daniel Radcliffe,  Emma Watson",8.077162834770466,David Yates
+187,The Deer Hunter,1978-01-01,188," Robert De Niro,  Christopher Walken",8.075389011007468,Michael Cimino
+188,In the Name of the Father,1993-01-01,189," Daniel Day-Lewis,  Pete Postlethwaite",8.07413993234907,Jim Sheridan
+189,The Grand Budapest Hotel,2014-01-01,190," Ralph Fiennes,  F. Murray Abraham",8.073344271792482,Wes Anderson
+190,Mr Smith Goes to Washington,1939-01-01,191," James Stewart,  Jean Arthur",8.071050049835836,Frank Capra
+191,Barry Lyndon,1975-01-01,192," Ryan O'Neal,  Marisa Berenson",8.071001598121981,Stanley Kubrick
+192,Le salaire de la peur,1953-01-01,193," Yves Montand,  Charles Vanel",8.070122670207544,Henri-Georges Clouzot
+193,Sherlock Jr,1924-01-01,194," Buster Keaton,  Kathryn McGuire",8.06925734665791,Buster Keaton
+194,Hacksaw Ridge,2016-01-01,195," Andrew Garfield,  Sam Worthington",8.068648043470581,Mel Gibson
+195,Salinui chueok,2003-01-01,196," Song Kang-ho,  Kim Sang-kyung",8.068614128025914,Bong Joon Ho
+196,Klaus,2019-01-01,197," Jason Schwartzman,  J.K. Simmons",8.06798348309539,Sergio Pablos
+197,Relatos salvajes,2014-01-01,198," Darío Grandinetti,  María Marull",8.066205879402014,Damián Szifron
+198,Det sjunde inseglet,1957-01-01,199," Max von Sydow,  Gunnar Björnstrand",8.065696293386608,Ingmar Bergman
+199,Room,2015-01-01,200," Brie Larson,  Jacob Tremblay",8.065308997014858,Lenny Abrahamson
+200,Mad Max: Fury Road,2015-01-01,201," Tom Hardy,  Charlize Theron",8.062823293821701,George Miller
+201,How to Train Your Dragon,2010-01-01,202," Jay Baruchel,  Gerard Butler",8.061880428797695,Dean DeBlois
+202,The Big Lebowski,1998-01-01,203," Jeff Bridges,  John Goodman",8.06154879672836,Joel Coen
+203,Mary and Max,2009-01-01,204," Toni Collette,  Philip Seymour Hoffman",8.060806339130153,Adam Elliot
+204,"Monsters, Inc",2001-01-01,205," Billy Crystal,  John Goodman",8.059457407551891,Pete Docter
+205,Jaws,1975-01-01,206," Roy Scheider,  Robert Shaw",8.058743512498312,Steven Spielberg
+206,Dead Poets Society,1989-01-01,207," Robin Williams,  Robert Sean Leonard",8.0540550616634,Peter Weir
+207,La passion de Jeanne d'Arc,1928-01-01,208," Maria Falconetti,  Eugene Silvain",8.053976608546488,Carl Theodor Dreyer
+208,Tôkyô monogatari,1953-01-01,209," Chishû Ryû,  Chieko Higashiyama",8.0539561805932,Yasujirô Ozu
+209,Hotel Rwanda,2004-01-01,210," Don Cheadle,  Sophie Okonedo",8.05207034874783,Terry George
+210,Rocky,1976-01-01,211," Sylvester Stallone,  Talia Shire",8.047693565075196,John G. Avildsen
+211,Ford v Ferrari,2019-01-01,212," Matt Damon,  Christian Bale",8.047303454865096,James Mangold
+212,Platoon,1986-01-01,213," Charlie Sheen,  Tom Berenger",8.046843021996539,Oliver Stone
+213,Pather Panchali,1955-01-01,214," Kanu Bannerjee,  Karuna Bannerjee",8.043848936509036,Satyajit Ray
+214,Stand by Me,1986-01-01,215," Wil Wheaton,  River Phoenix",8.041987186714275,Rob Reiner
+215,The Terminator,1984-01-01,216," Arnold Schwarzenegger,  Linda Hamilton",8.041765939889645,James Cameron
+216,Spotlight,2015-01-01,217," Mark Ruffalo,  Michael Keaton",8.039735023895028,Tom McCarthy
+217,Rush,2013-01-01,218," Daniel Brühl,  Chris Hemsworth",8.03845856562899,Ron Howard
+218,Logan,2017-01-01,219," Hugh Jackman,  Patrick Stewart",8.037398080072041,James Mangold
+219,Network,1976-01-01,220," Faye Dunaway,  William Holden",8.036714673717158,Sidney Lumet
+220,Into the Wild,2007-01-01,221," Emile Hirsch,  Vince Vaughn",8.035425965708562,Sean Penn
+221,Ratatouille,2007-01-01,222," Brad Garrett,  Lou Romano",8.035287736239221,Brad Bird
+222,The Wizard of Oz,1939-01-01,223," Judy Garland,  Frank Morgan",8.034793051873427,Victor Fleming
+223,Groundhog Day,1993-01-01,224," Bill Murray,  Andie MacDowell",8.031909125314298,Harold Ramis
+224,Before Sunset,2004-01-01,225," Ethan Hawke,  Julie Delpy",8.029811177075258,Richard Linklater
+225,The Exorcist,1973-01-01,226," Ellen Burstyn,  Max von Sydow",8.027857042526255,William Friedkin
+226,The Best Years of Our Lives,1946-01-01,227," Myrna Loy,  Dana Andrews",8.026240138774918,William Wyler
+227,The Incredibles,2004-01-01,228," Craig T. Nelson,  Samuel L. Jackson",8.025616985393295,Brad Bird
+228,To Be or Not to Be,1942-01-01,229," Carole Lombard,  Jack Benny",8.024507616337157,Ernst Lubitsch
+229,The Grapes of Wrath,1940-01-01,230," Henry Fonda,  Jane Darwell",8.022651617846426,John Ford
+230,La battaglia di Algeri,1966-01-01,231," Brahim Hadjadj,  Jean Martin",8.022619576595863,Gillo Pontecorvo
+231,Rebecca,1940-01-01,232," Laurence Olivier,  Joan Fontaine",8.02235215709825,Alfred Hitchcock
+232,Hachi: A Dog's Tale,2009-01-01,233," Richard Gere,  Joan Allen",8.021750764558627,Lasse Hallström
+233,Cool Hand Luke,1967-01-01,234," Paul Newman,  George Kennedy",8.02141169629521,Stuart Rosenberg
+234,Amores perros,2000-01-01,235," Emilio Echevarría,  Gael García Bernal",8.02096276075222,Alejandro G. Iñárritu
+235,Pirates of the Caribbean: The Curse of the Black Pearl,2003-01-01,236," Johnny Depp,  Geoffrey Rush",8.020633184983293,Gore Verbinski
+236,La haine,1995-01-01,237," Vincent Cassel,  Hubert Koundé",8.018235549251097,Mathieu Kassovitz
+237,Les quatre cents coups,1959-01-01,238," Jean-Pierre Léaud,  Albert Rémy",8.016342595417852,François Truffaut
+238,Babam ve Oglum,2005-01-01,239," Çetin Tekindor,  Fikret Kuskan",8.016167261678586,Cagan Irmak
+239,Persona,1966-01-01,240," Bibi Andersson,  Liv Ullmann",8.01484680990048,Ingmar Bergman
+240,It Happened One Night,1934-01-01,241," Clark Gable,  Claudette Colbert",8.014541792549725,Frank Capra
+241,The Sound of Music,1965-01-01,242," Julie Andrews,  Christopher Plummer",8.013190342952585,Robert Wise
+242,Life of Brian,1979-01-01,243," Graham Chapman,  John Cleese",8.012951473345499,Terry Jones
+243,Dersu Uzala,1975-01-01,244," Maksim Munzuk,  Yuriy Solomin",8.010693573594853,Akira Kurosawa
+244,Ah-ga-ssi,2016-01-01,245," Kim Min-hee,  Ha Jung-woo",8.010685939324999,Park Chan-wook
+245,Jai Bhim,2021-01-01,246," Suriya,  Lijo Mol Jose",8.010268155600006,T.J. Gnanavel
+246,Aladdin,1992-01-01,247," Scott Weinger,  Robin Williams",8.006002509392824,Ron Clements
+247,Gandhi,1982-01-01,248," Ben Kingsley,  John Gielgud",8.00554264429254,Richard Attenborough
+248,The Help,2011-01-01,249," Emma Stone,  Viola Davis",8.00485293587694,Tate Taylor
+249,The Iron Giant,1999-01-01,250," Eli Marienthal,  Harry Connick Jr.",8.002390797554295,Brad Bird
